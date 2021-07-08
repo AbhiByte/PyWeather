@@ -14,8 +14,7 @@
 
 A simple weather app, this project demonstrates knowledge of Python, Tkinter, API's and JSON formatting. 
 
-![image.png](https://postimg.cc/mc8RzTSy)]
-
+[![image.png](https://i.postimg.cc/9MjfkMRK/image.png)](https://postimg.cc/mc8RzTSy)
 ### Developed Using
 This project was developed using the Atom Text Editor. Of course, such a project can be created using any editor that suits you.
 * [Atom](https://atom.io/)
