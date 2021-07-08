@@ -3,7 +3,7 @@
   <a href="https://github.com/AbhiByte/PyWeather">
     <![lol.png](https://i.postimg.cc/RFqbXmfh/lol.png)](https://postimg.cc/gXFD2fgb)>
   </a>
-  <h3 align="center">cRona Invaders</h3>
+  <h3 align="center">PyWeather</h3>
   <p align="center">
     A weather app created using Python and the Tkinter GUI toolkit
   </p>
