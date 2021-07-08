@@ -13,6 +13,7 @@
 ## About The Project
 
 A simple weather app, this project demonstrates knowledge of Python, Tkinter, API's and JSON formatting. 
+
 ![image.png](https://postimg.cc/mc8RzTSy)]
 
 ### Developed Using
