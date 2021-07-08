@@ -15,6 +15,9 @@
 A simple weather app, this project demonstrates knowledge of Python, Tkinter, API's and JSON formatting. 
 
 [![image.png](https://i.postimg.cc/9MjfkMRK/image.png)](https://postimg.cc/mc8RzTSy)
+
+Enter your city and voila! The temperature and current weather shows up. Added visual features coming soon!
+
 ### Developed Using
 This project was developed using the Atom Text Editor. Of course, such a project can be created using any editor that suits you.
 * [Atom](https://atom.io/)
