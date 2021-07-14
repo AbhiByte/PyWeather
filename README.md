@@ -22,6 +22,10 @@ Enter your city and voila! The temperature and current weather shows up. Added v
 This project was developed using the Atom Text Editor. Of course, such a project can be created using any editor that suits you.
 * [Atom](https://atom.io/)
 
+### Required Programs and Packages
+• Python3
+• Tkinter
+• requests
 ### Installation and Usage
 1. Clone this repository
 2. Head over to [OpenWeather](https://openweathermap.org/api) and sign up for the 'current weather data' API
