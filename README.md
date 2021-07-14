@@ -4,8 +4,8 @@
     <![lol.png](https://i.postimg.cc/RFqbXmfh/lol.png)](https://postimg.cc/gXFD2fgb)>
   </a>
   <h3 align="center">PyWeather</h3>
-    [![weather.png](https://i.postimg.cc/4yTQb36b/weather.png)](https://postimg.cc/0McS9PHb)
   <p align="center">
+    ![alt text](https://i.postimg.cc/4yTQb36b/weather.png)
     A weather app created using Python and the Tkinter GUI toolkit
   </p>
 </p>
