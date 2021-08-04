@@ -1,3 +1,4 @@
+#Importing modules
 from tkinter import *
 import requests
 
@@ -6,6 +7,7 @@ window = Tk()
 window.title('Weather Report')
 window.geometry('500x500')
 
+#Main function
 def getWeather(window):
     city = city_entry.get()
     api_address = 'https://api.openweathermap.org/data/2.5/weather?appid={YourID}&q='
@@ -24,13 +26,13 @@ def getWeather(window):
     weatherLabel.config(text = f'The current weather is: {weather}', font=("Poppins", 20))
 
 
-
+#Entry field
 city_entry = Entry(window, textvariable='')
 city_entry.pack()
 city_entry.focus()
 city_entry.bind('<Return>', getWeather)
 
-
+#Labels
 tempLabel = Label(window)
 tempLabel.pack()
 feel = Label(window)
@@ -38,4 +40,5 @@ feel.pack()
 weatherLabel = Label(window)
 weatherLabel.pack()
 
+#Main loop
 window.mainloop()
